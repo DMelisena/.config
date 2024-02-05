@@ -1,5 +1,0 @@
-export PATH=~/.npm-global/bin:$PATH
-
-export OPENMC_CROSS_SECTIONS='/home/elisena/Code/endfb-vii.1-hdf5/cross_sections.xml'
-export OPENMC_CROSS_SECTIONS=$var/cross_sections.xml
-export HDF5_DISABLE_VERSION_CHECK=1

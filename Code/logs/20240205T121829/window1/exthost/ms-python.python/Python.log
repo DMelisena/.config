@@ -1,7 +1,0 @@
-2024-02-05 12:18:31.615 [info] Telemetry level is off
-2024-02-05 12:18:31.615 [info] Experiments are disabled, only manually opted experiments are active.
-2024-02-05 12:18:31.615 [info] Default formatter is set to null for workspace /home/elisena/Code/SkripsiL
-2024-02-05 12:18:31.615 [info] Test server listening.
-2024-02-05 12:18:31.615 [info] > conda info --json
-2024-02-05 12:18:31.615 [info] Python interpreter path: /usr/bin/python
-2024-02-05 12:18:32.887 [info] Starting Jedi language server for SkripsiL.

@@ -1,0 +1,31 @@
+game:
+  exe: ''
+  prefix: /home/elisena/Games/testlutris
+game_slug: testlutris
+name: testlutris
+requires: null
+script:
+  files:
+  - setupfile: N/A:Select the setup file
+  game:
+    exe: _xXx_AUTO_WIN32_xXx_
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env:
+        LC_ALL: ''
+      executable: /run/media/elisena/Comp Storage/Fureraba HD Renewal Edition/fureraba.exe
+      prefix: /home/elisena/Games/testlutris
+      wine_path: /home/elisena/.local/share/lutris/runners/wine/wine-ge-8-25-x86_64/bin/wine
+  system:
+    env:
+      LC_ALL: ''
+slug: testlutris-setup
+system:
+  env:
+    LC_ALL: ''
+variables: {}
+version: Setup file
+wine: {}
+year: null

@@ -1,0 +1,18 @@
+2024-02-04 15:15:15.072 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-02-04 15:15:15.072 [info] Auto Sync is enabled.
+2024-02-04 15:15:15.072 [info] Auto Sync: Suspended until auth token is available.
+2024-02-04 15:15:15.988 [info] Auto Sync: Triggered by Interval
+2024-02-04 15:15:15.988 [info] Sync started.
+2024-02-04 15:15:16.672 [info] Settings: Last sync resource does not exist locally.
+2024-02-04 15:15:16.815 [info] Settings: No changes found during synchronizing settings.
+2024-02-04 15:15:16.818 [info] Settings: Updated last synchronized settings
+2024-02-04 15:15:16.819 [info] Keybindings: Last sync resource does not exist locally.
+2024-02-04 15:15:16.870 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-04 15:15:16.871 [info] Snippets: Last sync resource does not exist locally.
+2024-02-04 15:15:16.990 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-04 15:15:16.991 [info] Tasks: Last sync resource does not exist locally.
+2024-02-04 15:15:17.035 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-04 15:15:17.036 [info] GlobalState: Last sync resource does not exist locally.
+2024-02-04 15:15:18.299 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2024-02-04 15:15:18.309 [info] GlobalState: Updated last synchronized ui state
+2024-02-04 15:15:18.313 [info] Extensions: Last sync resource does not exist locally.

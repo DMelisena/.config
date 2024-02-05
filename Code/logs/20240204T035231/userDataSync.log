@@ -1,0 +1,8 @@
+2024-02-04 03:52:33.089 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-02-04 03:52:33.089 [info] Auto Sync is enabled.
+2024-02-04 03:52:33.089 [info] Auto Sync: Suspended until auth token is available.
+2024-02-04 03:52:33.657 [info] Deleting non existing profile from backup /home/elisena/.config/Code/User/sync/globalState
+2024-02-04 03:52:33.799 [info] Deleting non existing profile from backup /home/elisena/.config/Code/User/sync/keybindings
+2024-02-04 03:52:33.841 [info] Deleting non existing profile from backup /home/elisena/.config/Code/User/sync/settings
+2024-02-04 03:52:34.085 [info] Auto Sync: Triggered by Interval
+2024-02-04 03:52:34.085 [info] Sync started.

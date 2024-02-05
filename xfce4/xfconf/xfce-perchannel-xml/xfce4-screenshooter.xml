@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-screenshooter" version="1.0">
+  <property name="actions" type="empty">
+    <property name="action-0" type="empty">
+      <property name="name" type="string" value="xfce4-screenshooter -f"/>
+      <property name="command" type="string" value=""/>
+    </property>
+    <property name="action-1" type="empty">
+      <property name="name" type="string" value=""/>
+      <property name="command" type="string" value=""/>
+    </property>
+    <property name="actions" type="int" value="3"/>
+    <property name="action-2" type="empty">
+      <property name="name" type="string" value=""/>
+      <property name="command" type="string" value=""/>
+    </property>
+  </property>
+</channel>

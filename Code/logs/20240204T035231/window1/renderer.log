@@ -1,0 +1,5 @@
+2024-02-04 03:52:32.630 [info] Started local extension host with pid 11813.
+2024-02-04 03:52:32.658 [error] Extension 'github.copilot-chat' wants API proposal 'interactiveUserActions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-04 03:52:32.658 [error] Extension 'github.copilot-chat' wants API proposal 'readonlyMessage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-04 03:52:32.658 [error] Extension 'github.copilot-chat' wants API proposal 'chatVariables' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-04 03:52:32.659 [error] Extension 'ms-python.python' wants API proposal 'saveEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.

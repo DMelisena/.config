@@ -116,7 +116,7 @@
 	"wlr/taskbar": {
 		"format": "{icon}",
 		"icon-size": 18,
-		"icon-theme": "Tela-circle-green",
+		"icon-theme": "Tela-circle-pink",
         "spacing": 0,
 		"tooltip-format": "{title}",
 		"on-click": "activate",
